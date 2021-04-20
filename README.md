@@ -1,11 +1,17 @@
 <h1 align="center"> Widget-support-user </h1>
 <h3 align="center">Design of an application in Nodejs a support to the user with live chat.</h3>
 
+<p align="center">
+
 [![GitHub license](https://img.shields.io/github/license/phsilva0101/Widget-support-user?color=green&label=License)](https://github.com/phsilva0101/Widget-support-user/blob/master/LICENSE)
 
 <a href="https://github.com/phsilva0101/Widget-support-user/issues"><img alt="GitHub issues" src="https://img.shields.io/github/issues/phsilva0101/Widget-support-user"></a>
 
-<img src"https://img.shields.io/badge/Progress-40%-red" />
+[![Made withNodeJS](https://img.shields.io/badge/Made%20with-NodeJS-green?style=for-the-badge&logo=NodeJS)](https://nodejs.org/en/)
+
+[![ForTheBadge progress](http://ForTheBadge.com/images/badges/progress-10%.svg)](http://ForTheBadge.com)
+
+</p>
 
 ##Development environment
 
